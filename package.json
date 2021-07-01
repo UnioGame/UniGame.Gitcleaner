@@ -4,9 +4,9 @@
   "displayName": "UniGame Git Cleaner",
   "description": "Auto remove empty folders from your project",
   "unity": "2018.3",
-  "version": "1.2.42",
+  "version": "1.2.45",
   "keywords": [],
   "dependencies": {
-    "com.unigame.coremodules": "2021.3.15"
+    "com.unigame.coremodules": "2021.3.18"
   }
 }
